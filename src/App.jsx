@@ -1,6 +1,7 @@
 import TodoHeader from "./components/TodoHeader";
 import TodoBody from "./components/TodoBody";
 import TodoFooter from "./components/TodoFooter";
+import "./App.css"
 
 function App() {
   const todos = [
